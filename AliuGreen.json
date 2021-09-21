@@ -1,0 +1,19 @@
+{
+    "manifest": {
+        "author": "~$ SudoHCT LaxoGold#0748",
+        "name": "AliuGreen",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "background": -15707097,
+        "accent": -12677543,
+        "background_secondary": -15439567
+    },
+    "colors": {
+        "highlighted_text_material_dark": -14303143,
+        "link": -14303143
+    },
+    "drawable_tints": {}
+}
