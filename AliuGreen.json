@@ -2,7 +2,8 @@
     "manifest": {
         "author": "~$ SudoHCT LaxoGold#0748",
         "name": "AliuGreen",
-        "version": "1.0.0"
+        "version": "1.0.1",
+        "updater": "https:\/\/raw.githubusercontent.com\/RedomiZeddo\/AliuThemes\/main\/AliuGreen.json"
     },
     "background": {},
     "fonts": {},
